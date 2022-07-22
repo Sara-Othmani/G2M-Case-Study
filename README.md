@@ -1,1 +1,1 @@
-# G2M-Case-Study
+# WEEK 2 : G2M-Case-Study
